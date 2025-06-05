@@ -1,0 +1,114 @@
+[
+    {
+        "name": "always been you",
+        "type": "Normal",
+        "duration": 126,
+        "filename": "always been you.mp3",
+        "extension": ".mp3"
+    },
+    {
+        "name": "intact",
+        "type": "Normal",
+        "duration": 148,
+        "filename": "intact.mp3",
+        "extension": ".mp3"
+    },
+    {
+        "name": "runner up to you",
+        "type": "Normal",
+        "duration": 124,
+        "filename": "runner up to you.mp3",
+        "extension": ".mp3"
+    },
+    {
+        "name": "scars",
+        "type": "Normal",
+        "duration": 96,
+        "filename": "scars.mp3",
+        "extension": ".mp3"
+    },
+    {
+        "name": "stare",
+        "type": "Normal",
+        "duration": 166,
+        "filename": "stare.mp3",
+        "extension": ".mp3"
+    },
+    {
+        "name": "Still Life",
+        "type": "Normal",
+        "duration": 203,
+        "filename": "Still Life.mp3",
+        "extension": ".mp3"
+    },
+    {
+        "name": "Cynthoni Of Flames",
+        "type": "Static",
+        "duration": 557,
+        "filename": "Cynthoni Of Flames.mp3",
+        "extension": ".mp3"
+    },
+    {
+        "name": "Even Further Down The Drain",
+        "type": "Static",
+        "duration": 482,
+        "filename": "Even Further Down The Drain.mp3",
+        "extension": ".mp3"
+    },
+    {
+        "name": "Femcels",
+        "type": "Static",
+        "duration": 296,
+        "filename": "Femcels.mp3",
+        "extension": ".mp3"
+    },
+    {
+        "name": "It Is Happening Again...",
+        "type": "Static",
+        "duration": 159,
+        "filename": "It Is Happening Again....mp3",
+        "extension": ".mp3"
+    },
+    {
+        "name": "Lexapro Doesn't Work",
+        "type": "Static",
+        "duration": 443,
+        "filename": "Lexapro Doesn't Work.mp3",
+        "extension": ".mp3"
+    },
+    {
+        "name": "Lvstlove",
+        "type": "Static",
+        "duration": 366,
+        "filename": "Lvstlove.mp3",
+        "extension": ".mp3"
+    },
+    {
+        "name": "Slowburn",
+        "type": "Static",
+        "duration": 427,
+        "filename": "Slowburn.mp3",
+        "extension": ".mp3"
+    },
+    {
+        "name": "Swan Dive Into Eternity",
+        "type": "Static",
+        "duration": 362,
+        "filename": "Swan Dive Into Eternity.mp3",
+        "extension": ".mp3"
+    },
+    {
+        "name": "The Feeling Is Gone",
+        "type": "Static",
+        "duration": 274,
+        "filename": "The Feeling Is Gone.mp3",
+        "extension": ".mp3"
+    },
+    {
+        "name": "Yandere Era",
+        "type": "Static",
+        "duration": 227,
+        "filename": "Yandere Era.mp3",
+        "extension": ".mp3"
+    }
+]
