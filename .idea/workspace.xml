@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b46f7c4-e7c7-4849-8288-0b79ea194c4a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2sgUWbVBZuvcA8MPzNXQS0DZtwH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.app.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.useful.executor": "Run",
+    "Python.ytdlp.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Sleepy Ako/PycharmProjects/MusicApp/music",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sleepy Ako\PycharmProjects\MusicApp\music" />
+      <recent name="C:\Users\Sleepy Ako\PycharmProjects\MusicApp\icons" />
+      <recent name="C:\Users\Sleepy Ako\PycharmProjects\App\icons" />
+      <recent name="C:\Users\Sleepy Ako\PycharmProjects\App" />
+      <recent name="C:\Users\Sleepy Ako\PycharmProjects\App\music" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sleepy Ako\PycharmProjects\App\icons" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.180" />
+        <option value="bundled-python-sdk-85c76a3b01b3-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.180" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b46f7c4-e7c7-4849-8288-0b79ea194c4a" name="Changes" comment="" />
+      <created>1738876745653</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738876745653</updated>
+      <workItem from="1738876746327" duration="6370000" />
+      <workItem from="1738883244007" duration="41000" />
+      <workItem from="1738890271718" duration="7565000" />
+      <workItem from="1738924458903" duration="1291000" />
+      <workItem from="1738925787886" duration="440000" />
+      <workItem from="1738926711817" duration="578000" />
+      <workItem from="1738965347673" duration="279000" />
+      <workItem from="1738965640461" duration="5559000" />
+      <workItem from="1739056077180" duration="819000" />
+      <workItem from="1739056945303" duration="15000" />
+      <workItem from="1748302855300" duration="8317000" />
+      <workItem from="1748311284838" duration="3625000" />
+      <workItem from="1748362331548" duration="3376000" />
+      <workItem from="1748380417480" duration="77000" />
+      <workItem from="1748474770010" duration="75000" />
+      <workItem from="1748527360440" duration="665000" />
+      <workItem from="1748528048291" duration="1666000" />
+      <workItem from="1748531624347" duration="344000" />
+      <workItem from="1748543199119" duration="18000" />
+      <workItem from="1748545112664" duration="48000" />
+      <workItem from="1748545453961" duration="15000" />
+      <workItem from="1748545794119" duration="25000" />
+      <workItem from="1748611239330" duration="6799000" />
+      <workItem from="1749064462827" duration="18842000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MusicApp$useful.coverage" NAME="useful Coverage Results" MODIFIED="1749118775955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MusicApp$ytdlp.coverage" NAME="ytdlp Coverage Results" MODIFIED="1748628024594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MusicApp$app.coverage" NAME="app Coverage Results" MODIFIED="1749125083346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/App$main.coverage" NAME="main Coverage Results" MODIFIED="1748305479098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/App$app.coverage" NAME="app Coverage Results" MODIFIED="1748531915027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
