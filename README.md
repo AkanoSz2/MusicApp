@@ -171,3 +171,4 @@ This project shows how you can use **PyQt6** and **VLC** together to build a sle
 ## 📁 Extra Info
 
 - GitHub Repository: https://github.com/AkanoSz2/MusicApp
+- Youtube Video: https://www.youtube.com/watch?v=myN-U86EdsI&feature=youtu.be 
